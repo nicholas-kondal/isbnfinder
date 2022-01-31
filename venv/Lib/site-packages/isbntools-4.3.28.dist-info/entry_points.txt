@@ -1,0 +1,22 @@
+[console_scripts]
+isbn_classify = isbntools.bin.classify:main
+isbn_conf = isbntools.bin.confc:main
+isbn_cover = isbntools.bin.cover:main
+isbn_desc = isbntools.bin.desc:main
+isbn_doi = isbntools.bin.doi:main
+isbn_doi2tex = isbntools.bin.doi2tex:main
+isbn_ean13 = isbntools.bin.ean13:main
+isbn_editions = isbntools.bin.editions:main
+isbn_from_words = isbntools.bin.from_words:main
+isbn_goom = isbntools.bin.goom:main
+isbn_info = isbntools.bin.info:main
+isbn_mask = isbntools.bin.mask:main
+isbn_meta = isbntools.bin.meta:main
+isbn_ren = isbntools.bin.ren:main
+isbn_repl = isbntools.bin.repl:main
+isbn_stdin_validate = isbntools.bin.validate:do_pipe
+isbn_validate = isbntools.bin.validate:main
+isbntools = isbntools.bin.version:main
+to_isbn10 = isbntools.bin.to_isbn10:main
+to_isbn13 = isbntools.bin.to_isbn13:main
+
